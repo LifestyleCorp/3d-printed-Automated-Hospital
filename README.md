@@ -1,4 +1,4 @@
-```markdown
+
 # 3D Printed Automated Nuclear-Powered Hospitals with AI-Robot Healthcare Professionals
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
