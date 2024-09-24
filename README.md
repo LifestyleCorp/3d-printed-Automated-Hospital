@@ -240,13 +240,7 @@ For any inquiries or support, please contact:
 - **v2.0.0**
   - Full-scale deployment modules and comprehensive hospital management systems.
 
----
 
-Join us in pioneering the future of healthcare!
-
-```
-
-```markdown
 ## FAQ
 
 ### What is the primary purpose of this project?
